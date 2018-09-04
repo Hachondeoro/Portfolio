@@ -1,4 +1,5 @@
 # Coinbase filtering
+# This is a new line testing
 source("Functions.R")
 check.packages(c("curl","jsonlite","magrittr","mailR"))
 
