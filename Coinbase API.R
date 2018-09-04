@@ -28,6 +28,7 @@ cb <- function(req){
      }
 }
 
+
 check_call_api <- function(list_urls) {
      pool <- new_pool()
      data <- list()
